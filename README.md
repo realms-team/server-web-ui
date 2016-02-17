@@ -51,3 +51,5 @@ The **users** must be able to:
     * Links between the motes and their corresponding qualities
   * Plot the different data 
     * Example: using [ploty](https://plot.ly/)
+    * Others: [Grafana](http://grafana.org/) or [Kibana](https://www.elastic.co/products/kibana)
+      * Those two do not work with MongoDB
